@@ -1,0 +1,59 @@
+/* this command is use for take background colour and text colour */
+
+/* important showing in the down */
+/* #haj use for id  */
+
+    /* #kuldeep{
+        background-color: blue;
+        color: rgb(228, 13, 13);
+        
+    }  */
+    
+    /* important showing in the down */
+    /* .dot use for class */
+    /* .saini{
+        background-color: blueviolet;
+        color: ghostwhite;
+    } */
+
+    /* THIS IS CANVAS STYLE NOW USING */
+    canvas {
+        /* display: block; */
+        display: flex;
+       margin-top: 20px;
+       margin-left: 165px;
+       margin-right: 90px;
+       margin-bottom: 20px;
+      }
+
+      /* THIS IS P5.JS DOM-STANDS FOR- DCUMENT OBJECT MODULE -AND IT LUNCH ON GITHUB  */
+      /* .greeting{
+      color: blue;
+      text-align: center;
+      font-size: 200px;
+      text-shadow: currentColor;
+      } */
+
+      /* NOW WE USE HTML CLASS TO GIVE STYLE */
+      .saini{
+        text-align: center;
+        font-size: 25px;
+        color: rgb(13, 28, 238);
+        font-weight:bolder;   
+             
+      }
+
+      .katariya{
+      color: rgb(0, 225, 255);
+      border: solid 4px red;
+      text-align: center;
+      }
+
+      /* MOST IMPROTANT THING */
+      /* .item{
+        color: red;
+        border: solid 10px rebeccapurple;
+        padding-left: 10px; 
+      } */
+
+      
